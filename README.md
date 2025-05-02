@@ -22,6 +22,7 @@
 
 
 ## Credits
+[cipherxof](https://github.com/cipherxof) for the original fix!
 [@Lyall](https://github.com/lyall) for MGSHDFix framework. <br />
 [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) for ASI loading. <br />
 [safetyhook](https://github.com/cursey/safetyhook) for hooking.
